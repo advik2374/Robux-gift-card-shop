@@ -2,6 +2,7 @@ body{
     text-align:center;
     color: rgb(255, 0, 0);
     font-family:Helvetica;
+    background-color:green;
 }
 
 #flex-container{
@@ -16,4 +17,7 @@ body{
 img{
     width:100px;
     height:100px
+}
+h1:hover{
+    transform:scale(1.6);
 }
