@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    color: rgb(255, 0, 0);
+    font-family:Helvetica;
+}
+
+#flex-container{
+    display:flex;
+    justify-content:center;
+}
+#flex-items{
+    background-color: bisque;
+    margin-left:30px;
+    border:3px black groover;
+}
+img{
+    width:100px;
+    height:100px
+}
